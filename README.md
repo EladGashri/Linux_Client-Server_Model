@@ -8,7 +8,7 @@ There are two kinds of clients: a student and a teaching assistant (TA).
 
 Users can send one of the following commands:
 
-● Login id password
+● Login id password.
 
 ● ReadGrade: Print the grade of the logged in student. The operation can be done
 only by a student.
