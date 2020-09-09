@@ -6,6 +6,7 @@ C programming in Linux.
 
 There are two kinds of clients:
 ● A teaching assistant (TA): can read and modify grades.
+
 ● A student: can only read his grade.
 
 Users can send one of the following commands:
