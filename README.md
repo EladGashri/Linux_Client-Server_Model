@@ -1,18 +1,10 @@
 Programming a multi-threaded server application that handles multiple users' queries and a multi-process user application that allows users to login, read and update server data. 
 
-
 Applications communicate using a TCP socket connection.
-
 
 C programming in Linux.
 
-
-There are two kinds of clients:
-
-● A teaching assistant (TA): can read and modify grades.
-
-● A student: can only read his grade.
-
+There are two kinds of clients: a student and a teaching assistant (TA).
 
 Users can send one of the following commands:
 
