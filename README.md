@@ -1,6 +1,6 @@
 Implemented a multi-threaded server application that handles multiple users' queries simultaneously and a multi-process user application that allows users to login, read and update server data. 
 
-Applications communicate using a TCP socket connection.
+Applications communicate using a TCP socket.
 
 C programming in Linux.
 
